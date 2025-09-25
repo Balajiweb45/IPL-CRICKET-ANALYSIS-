@@ -19,9 +19,5 @@ The dataset includes:
 - Venue Insights: Win rates and high-scoring venues.
 - Seasonal Trends: Track changes in performance metrics over time.
 
-## Dashboard Screenshot
-(IPL_ANALYSIS.png)
-
-
 ## Dashboard
-Here is the Dashboard:[App powerbi link](https://app.powerbi.com/view?r=eyJrIjoiYjRiZTZjZmMtYjVmOS00ODkwLTllNTAtNjBlN2U0MTdiMTg2IiwidCI6IjI4MTc1ZDcxLTIxNGMtNGE1MS1hM2NhLTU1NzliZTNkMTY1OCJ9)
+Here is the Dashboard:[App powerbi link](https://app.powerbi.com/view?r=eyJrIjoiY2ZmNmQ1MGMtOWZiYy00ZTczLTgyNDgtZGRkNWY3YzdiMjdlIiwidCI6IjI4MTc1ZDcxLTIxNGMtNGE1MS1hM2NhLTU1NzliZTNkMTY1OCJ9)

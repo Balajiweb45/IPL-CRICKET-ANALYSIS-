@@ -18,3 +18,9 @@ The dataset includes:
 - Player Analysis: Analyze top batsmen and bowlers, player consistency, and contributions to team success.
 - Venue Insights: Win rates and high-scoring venues.
 - Seasonal Trends: Track changes in performance metrics over time.
+
+## Dashboard Screenshot
+![IPL DASHBOARD](IPL ANALYSIS.png)
+
+## Dashboard
+Here is the Dashboard:[App powerbi link](https://app.powerbi.com/view?r=eyJrIjoiYjRiZTZjZmMtYjVmOS00ODkwLTllNTAtNjBlN2U0MTdiMTg2IiwidCI6IjI4MTc1ZDcxLTIxNGMtNGE1MS1hM2NhLTU1NzliZTNkMTY1OCJ9)

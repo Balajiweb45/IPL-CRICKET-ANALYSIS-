@@ -20,6 +20,7 @@ The dataset includes:
 - Seasonal Trends: Track changes in performance metrics over time.
 
 ## Dashboard Screenshot
+(IPL_ANALYSIS.png)
 
 
 ## Dashboard
